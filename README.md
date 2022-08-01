@@ -1,5 +1,5 @@
 # <div align="center">El Ahorcado en Javascript - Sencillo - Dia 1 </div>  
-  
+ ----
 
 Vamos a crear el ahorcado en pocas lineas de codigo de una manera sencilla y entendible para todos los que comienzan en javascript.  
   
@@ -23,4 +23,4 @@ Vamos a crear el ahorcado en pocas lineas de codigo de una manera sencilla y ent
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
