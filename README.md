@@ -4,7 +4,7 @@ Vamos a crear el ahorcado en pocas lineas de codigo de una manera sencilla y ent
   
 
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/960933422363209800/1003767917294391486/unknown.png" align="center" height="" width="" />
+<img src="https://cdn.discordapp.com/attachments/960933422363209800/1003982300117225672/pika-2022-08-02T11_07_00.050Z.png" align="center" height="" width="" />
 </div>  
   
 
